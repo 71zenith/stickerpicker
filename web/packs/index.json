@@ -5,7 +5,9 @@
     "LINE_Cat_ear_girl_Necoco.json",
     "LINE_Yurudara_chan.json",
     "LINE_Shizuku_and_Riru.json",
-    "LINE_NieR_Automata_2B.json"
+    "LINE_NieR_Automata_2B.json",
+    "pep.json",
+    "pepe.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
