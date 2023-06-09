@@ -1,0 +1,11 @@
+{
+  "packs": [
+    "LINE_fuwafuwa_everyday.json",
+    "LINE_nachonekodayo.json",
+    "LINE_Cat_ear_girl_Necoco.json",
+    "LINE_Yurudara_chan.json",
+    "LINE_Shizuku_and_Riru.json",
+    "LINE_NieR_Automata_2B.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
